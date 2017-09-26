@@ -1,6 +1,6 @@
 FROM node:alpine
 
-RUN mkdir:app
+RUN mkdir app
 
 WORKDIR app
 
